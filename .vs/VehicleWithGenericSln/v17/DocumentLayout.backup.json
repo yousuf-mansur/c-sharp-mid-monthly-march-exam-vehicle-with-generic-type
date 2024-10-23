@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{936B1914-1B21-4539-8C3D-66AFCA0C370E}|VehicleWithGeneric\\VehicleWithGeneric.csproj|d:\\isdb-bisew\\idb classes\\module_03\\mid monthly march\\evidence\\maam\\vehiclewithgenericsln\\vehiclewithgeneric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936B1914-1B21-4539-8C3D-66AFCA0C370E}|VehicleWithGeneric\\VehicleWithGeneric.csproj|solutionrelative:vehiclewithgeneric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B1914-1B21-4539-8C3D-66AFCA0C370E}|VehicleWithGeneric\\VehicleWithGeneric.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\vehiclewithgeneric\\entities\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936B1914-1B21-4539-8C3D-66AFCA0C370E}|VehicleWithGeneric\\VehicleWithGeneric.csproj|solutionrelative:vehiclewithgeneric\\entities\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B1914-1B21-4539-8C3D-66AFCA0C370E}|VehicleWithGeneric\\VehicleWithGeneric.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\vehiclewithgeneric\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936B1914-1B21-4539-8C3D-66AFCA0C370E}|VehicleWithGeneric\\VehicleWithGeneric.csproj|solutionrelative:vehiclewithgeneric\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B1914-1B21-4539-8C3D-66AFCA0C370E}|VehicleWithGeneric\\VehicleWithGeneric.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\vehiclewithgeneric\\entities\\twowheeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936B1914-1B21-4539-8C3D-66AFCA0C370E}|VehicleWithGeneric\\VehicleWithGeneric.csproj|solutionrelative:vehiclewithgeneric\\entities\\twowheeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B1914-1B21-4539-8C3D-66AFCA0C370E}|VehicleWithGeneric\\VehicleWithGeneric.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\vehiclewithgeneric\\entities\\fourwheeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936B1914-1B21-4539-8C3D-66AFCA0C370E}|VehicleWithGeneric\\VehicleWithGeneric.csproj|solutionrelative:vehiclewithgeneric\\entities\\fourwheeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B1914-1B21-4539-8C3D-66AFCA0C370E}|VehicleWithGeneric\\VehicleWithGeneric.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\vehiclewithgeneric\\interfaces\\iexteriordesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936B1914-1B21-4539-8C3D-66AFCA0C370E}|VehicleWithGeneric\\VehicleWithGeneric.csproj|solutionrelative:vehiclewithgeneric\\interfaces\\iexteriordesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B1914-1B21-4539-8C3D-66AFCA0C370E}|VehicleWithGeneric\\VehicleWithGeneric.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\vehiclewithgeneric\\interfaces\\iinteriordesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936B1914-1B21-4539-8C3D-66AFCA0C370E}|VehicleWithGeneric\\VehicleWithGeneric.csproj|solutionrelative:vehiclewithgeneric\\interfaces\\iinteriordesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B1914-1B21-4539-8C3D-66AFCA0C370E}|VehicleWithGeneric\\VehicleWithGeneric.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\vehiclewithgeneric\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936B1914-1B21-4539-8C3D-66AFCA0C370E}|VehicleWithGeneric\\VehicleWithGeneric.csproj|solutionrelative:vehiclewithgeneric\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936B1914-1B21-4539-8C3D-66AFCA0C370E}|VehicleWithGeneric\\VehicleWithGeneric.csproj|D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\vehiclewithgeneric\\entities\\vehicletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936B1914-1B21-4539-8C3D-66AFCA0C370E}|VehicleWithGeneric\\VehicleWithGeneric.csproj|solutionrelative:vehiclewithgeneric\\entities\\vehicletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IExteriorDesign.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\VehicleWithGeneric\\Interfaces\\IExteriorDesign.cs",
+              "RelativeDocumentMoniker": "VehicleWithGeneric\\Interfaces\\IExteriorDesign.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\VehicleWithGeneric\\Interfaces\\IExteriorDesign.cs",
+              "RelativeToolTip": "VehicleWithGeneric\\Interfaces\\IExteriorDesign.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:34:50.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IInteriorDesign.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\VehicleWithGeneric\\Interfaces\\IInteriorDesign.cs",
+              "RelativeDocumentMoniker": "VehicleWithGeneric\\Interfaces\\IInteriorDesign.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\VehicleWithGeneric\\Interfaces\\IInteriorDesign.cs",
+              "RelativeToolTip": "VehicleWithGeneric\\Interfaces\\IInteriorDesign.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:34:50.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TwoWheeler.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\VehicleWithGeneric\\Entities\\TwoWheeler.cs",
+              "RelativeDocumentMoniker": "VehicleWithGeneric\\Entities\\TwoWheeler.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\VehicleWithGeneric\\Entities\\TwoWheeler.cs",
+              "RelativeToolTip": "VehicleWithGeneric\\Entities\\TwoWheeler.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:34:50.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FourWheeler.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\VehicleWithGeneric\\Entities\\FourWheeler.cs",
+              "RelativeDocumentMoniker": "VehicleWithGeneric\\Entities\\FourWheeler.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\VehicleWithGeneric\\Entities\\FourWheeler.cs",
+              "RelativeToolTip": "VehicleWithGeneric\\Entities\\FourWheeler.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:34:50.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\VehicleWithGeneric\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "VehicleWithGeneric\\Entities\\Vehicle.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\VehicleWithGeneric\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "VehicleWithGeneric\\Entities\\Vehicle.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:34:50.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VehicleType.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\VehicleWithGeneric\\Entities\\VehicleType.cs",
+              "RelativeDocumentMoniker": "VehicleWithGeneric\\Entities\\VehicleType.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\VehicleWithGeneric\\Entities\\VehicleType.cs",
+              "RelativeToolTip": "VehicleWithGeneric\\Entities\\VehicleType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:34:50.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\VehicleWithGeneric\\Program.cs",
+              "RelativeDocumentMoniker": "VehicleWithGeneric\\Program.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\VehicleWithGeneric\\Program.cs",
+              "RelativeToolTip": "VehicleWithGeneric\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:34:50.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\VehicleWithGeneric\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "VehicleWithGeneric\\Entities\\Car.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\VehicleWithGeneric\\Entities\\Car.cs",
+              "RelativeToolTip": "VehicleWithGeneric\\Entities\\Car.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:34:50.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MotorCycle.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\VehicleWithGeneric\\Entities\\MotorCycle.cs",
+              "RelativeDocumentMoniker": "VehicleWithGeneric\\Entities\\MotorCycle.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\IDB Classes\\Module_03\\Mid Monthly March\\Evidence\\Maam\\VehicleWithGenericSln\\VehicleWithGeneric\\Entities\\MotorCycle.cs",
+              "RelativeToolTip": "VehicleWithGeneric\\Entities\\MotorCycle.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwCkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:34:50.527Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
